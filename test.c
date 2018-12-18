@@ -3,8 +3,8 @@
 int main()
 {
 
-printf("hello wolrd");
-
+	printf("hello wolrd/n");
+	printf("bienvenue");
 return 0;
 }
 
